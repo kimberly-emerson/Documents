@@ -14,11 +14,11 @@
 
 [SQL Server 2012/2014](https://www.youracclaim.com/badges/bd03f281-d07c-435f-8169-894f1026ed80)
 
-<a src="https://www.youracclaim.com/badges/bd03f281-d07c-435f-8169-894f1026ed80"><img src="https://github.com/kimberly-emerson/Documents/blob/master/sql.png" width=100px /></a>
+<a href="https://www.youracclaim.com/badges/bd03f281-d07c-435f-8169-894f1026ed80"><img src="https://github.com/kimberly-emerson/Documents/blob/master/sql.png" width=100px /></a>
 
 [Azure Developer Associate](https://www.youracclaim.com/badges/c102a797-cd4a-418c-b4a8-a2b3eaf91fe6)
 
-<a src="https://www.youracclaim.com/badges/c102a797-cd4a-418c-b4a8-a2b3eaf91fe6"><img src="https://github.com/kimberly-emerson/Documents/blob/master/azure.png" width=100px /></a>
+<a href="https://www.youracclaim.com/badges/c102a797-cd4a-418c-b4a8-a2b3eaf91fe6"><img src="https://github.com/kimberly-emerson/Documents/blob/master/azure.png" width=100px /></a>
 
 ## Skills
 
