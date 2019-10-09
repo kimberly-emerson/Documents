@@ -9,6 +9,7 @@
 - REST APIs
 - C# Console Applications
 - C#/MVC Web Applications
+- Razor Pages
 - SQL Server Performance Monitoring/Tuning
 - Database Design
 - Data Modeling
