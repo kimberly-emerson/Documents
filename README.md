@@ -21,7 +21,7 @@
 ## Skills
 
 ### LANGUAGES
-C#, SQL, Python, PowerShell, JavaScript, TypeScript, jQuery, Angular, AngularJS, HTML5, CSS3
+C#, SQL, PowerShell, JavaScript, TypeScript, jQuery, Angular, AngularJS, HTML5, CSS3
 
 ### PLATFORMS / OS
 Microsoft Azure, Windows Server, Microsoft Windows, Ubuntu Linux
