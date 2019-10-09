@@ -1,6 +1,6 @@
 # About Kimberly Emerson
 
-[Resume](https://github.com/kimberly-emerson/Documents/commit/c5abc1d0658132140fc9ec0211e25be268747130)
+[Resume](resume_emerson_kimberly.pdf)
 
 ## Experience
 
