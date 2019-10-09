@@ -1,13 +1,35 @@
 # About Kimberly
 
-Key Skills
-
-SQL | SQL Server | MySQL | SSIS | SSRS | Power BI | COGNOS | Crystal Reports | Microsoft Access | Microsoft Azure | C# | .NET Core | .NET Framework | MVC | LINQ | Swagger | Dapper | NUnit | Angular | AngularJS | jQuery | HTML5 | Bootstrap | PowerShell | Postman | Fiddler | Markdown | YouTrack | Git
-
-Experience
+## Experience
 
 - Maintaining existing codebases
 - Creating new solutions including .NET web applications, .NET console applications, ETL pipelines, QA solutions, SQL Server performance monitoring/tuning and REST APIs
 - Performing all phases of development of customized and rapidly evolving solutions
 - Developing across the MS SQL stack including SQL Server queries and stored procedures, triggers, analysis and reporting
 - Designing databases, data models, data access and business logic
+
+## Certifications
+
+[SQL Server 2012/2014](https://www.youracclaim.com/badges/bd03f281-d07c-435f-8169-894f1026ed80)
+
+[Azure Developer Associate](https://www.youracclaim.com/badges/c102a797-cd4a-418c-b4a8-a2b3eaf91fe6)
+
+## Skills
+
+### LANGUAGES
+C#, SQL, Python, PowerShell, JavaScript, TypeScript, jQuery, Angular, AngularJS, HTML5, CSS3
+
+### PLATFORMS / OS
+Microsoft Azure, Windows Server, Microsoft Windows, Ubuntu Linux
+
+### DATABASES
+Microsoft SQL Server, MySQL, MongoDB, Microsoft Access
+
+### BUSINESS INTELLIGENCE
+Power BI, SSIS, SSAS, SSRS, COGNOS, Crystal Reports
+
+### WEB DEVELOPMENT
+.NET Framework, .NET Core, MVC, Razor, Entity Framework, LINQ, Dapper, Swagger, NUnit, Bootstrap
+
+### TOOLS
+Visual Studio, Git, Postman, Fiddler, YouTrack, Markdown
