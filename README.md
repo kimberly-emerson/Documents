@@ -1,14 +1,20 @@
-# About Kimberly Emerson
+# About Kimberly Emerson, 
 
 [Resume](https://github.com/kimberly-emerson/Documents/commit/c5abc1d0658132140fc9ec0211e25be268747130)
 
 ## Experience
 
-- Maintaining existing codebases
-- Creating new solutions including .NET web applications, .NET console applications, ETL pipelines, QA solutions, SQL Server performance monitoring/tuning and REST APIs
-- Performing all phases of development of customized and rapidly evolving solutions
-- Developing across the MS SQL stack including SQL Server queries and stored procedures, triggers, analysis and reporting
-- Designing databases, data models, data access and business logic
+- SQL Querying
+- Extract-Transform-Load (ETL) Pipelines
+- REST APIs
+- C# Console Applications
+- C#/MVC Web Applications
+- SQL Server Performance Monitoring/Tuning
+- Database Design
+- Data Modeling
+- Data Access Layers (DAL)
+- Business Logic Layers
+- SSRS, COGNOS, Crystal Reports reporting
 
 ## Certifications
 
