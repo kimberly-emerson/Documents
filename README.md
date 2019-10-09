@@ -41,7 +41,7 @@ Additionally, I'm also skilled in the *.NET stack* largely focused on C# develop
 C#, SQL, PowerShell, JavaScript, TypeScript, jQuery, Angular, AngularJS, HTML5, CSS3
 
 ### PLATFORMS / OS
-Microsoft Azure, Windows Server, Microsoft Windows, Ubuntu Linux
+Microsoft Azure, Windows Server, Microsoft Windows, Ubuntu Linux, WordPress, Microsoft SharePoint
 
 ### DATABASES
 Microsoft SQL Server, MySQL, MongoDB, Microsoft Access
