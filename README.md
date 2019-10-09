@@ -2,6 +2,12 @@
 
 [Resume](resume_emerson_kimberly.pdf)
 
+Hello. I am currently looking for remote opportunities.
+
+I am a **SQL Developer** with 15+ years of experience working in the *SQL stack* including T-SQL, SQL Server, SSIS, SSRS and SSAS.
+
+Additionally, I'm also skilled in the *.NET stack* largely focused on C# development.
+
 ## Experience
 
 - SQL Querying
@@ -28,6 +34,8 @@
 <a href="https://www.youracclaim.com/badges/c102a797-cd4a-418c-b4a8-a2b3eaf91fe6"><img src="https://github.com/kimberly-emerson/Documents/blob/master/azure.png" width=100px /></a>
 
 ## Skills
+
+[Pluralsight](https://app.pluralsight.com/profile/kimberly-emerson)
 
 ### LANGUAGES
 C#, SQL, PowerShell, JavaScript, TypeScript, jQuery, Angular, AngularJS, HTML5, CSS3
