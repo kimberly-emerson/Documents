@@ -21,7 +21,7 @@ Additionally, I'm also skilled in the *.NET stack* largely focused on C# develop
 - Data Modeling
 - Data Access Layers (DAL)
 - Business Logic Layers
-- SSRS, COGNOS, Crystal Reports reporting
+- Power BI, SSRS, COGNOS, Crystal Reports reporting
 
 ## Certifications
 
