@@ -2,7 +2,7 @@
 
 [Resume](resume_emerson_kimberly.pdf)
 
-Hello. I am currently seeking for remote working opportunities.
+Hello. I am currently seeking remote working opportunities.
 
 I am a **SQL Developer** with 15+ years of experience working in the *SQL stack* including T-SQL, SQL Server, SSIS, SSRS and SSAS.
 
