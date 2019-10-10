@@ -10,7 +10,7 @@ Additionally, I'm skilled in the *.NET stack* largely focused on C# development.
 
 ## Contact
 
-[Email](mailto:kdemerson@outlook.com) me today and let's schedule some time to discuss what I can do for you. 
+[Email](mailto:kimberly@kimberlyemerson.dev) me today and let's schedule some time to discuss what I can do for you. 
 
 ## Experience
 
