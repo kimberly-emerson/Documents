@@ -14,18 +14,26 @@ Additionally, I'm skilled in the *.NET stack* largely focused on C# development.
 
 ## Experience
 
-- SQL Querying
-- Extract-Transform-Load (ETL) Pipelines
-- REST APIs
-- C# Console Applications
-- C#/MVC Web Applications
-- Razor Pages
+- SQL Queries
+- SQL Server Programming: Stored Procedures, Functions, Triggers
 - SQL Server Performance Monitoring/Tuning
+- SQL Server Agent: Job and Task Automation
+- Extract-Transform-Load (ETL) Pipelines
+- Data Migration
 - Database Design
+- Data Modeling
+- Data Warehouses
+- Reporting: Power BI, SSRS, COGNOS, Crystal Reports
+- Cloud Architecture
+- Cloud Computing
+- Cloud Infrastructure
+- Console Applications
+- Web Applications
+- Razor Pages
 - Data Modeling
 - Data Access Layers (DAL)
 - Business Logic Layers
-- Power BI, SSRS, COGNOS, Crystal Reports reporting
+- REST APIs
 
 ## Certifications
 
