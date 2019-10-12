@@ -50,7 +50,9 @@ So, get in touch and let's talk about what I can do for you.
 [Pluralsight](https://app.pluralsight.com/profile/kimberly-emerson)
 
 ### LANGUAGES
-C#, SQL, PowerShell, JavaScript, TypeScript, jQuery, Angular, AngularJS, HTML5, CSS3
+C#, SQL, PowerShell, HTML5, CSS3, JavaScript, TypeScript, jQuery, Angular, AngularJS, Python
+
+*I have a good grasp of the fundamentals of Python, Angular and TypeScript*
 
 ### PLATFORMS / OS
 Microsoft Azure, Windows Server, Microsoft Windows, Ubuntu Linux, WordPress, Microsoft SharePoint
