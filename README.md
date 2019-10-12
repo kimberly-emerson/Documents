@@ -2,11 +2,7 @@
 
 [Resume](resume_emerson_kimberly.pdf)
 
-Hello. I am currently seeking remote working opportunities.
-
-I am a **SQL Developer** with 15+ years of experience working in the *SQL stack* including T-SQL, SQL Server, SSIS, SSRS and SSAS.
-
-Additionally, I'm skilled in the *.NET stack* largely focused on C# development.
+I am a Microsoft Azure and SQL Server certified developer, specializing in Microsoft Azure, .NET and SQL Server development with over 18 years worth of experience. My skill set is broad, ranging from the database in the back to the web application in the front and everything in between. I have an established history of building integrations and interfaces that deliver on my customer's expectations and requirements. So, get in touch and let's talk about what I can do for you. 
 
 ## Contact
 
