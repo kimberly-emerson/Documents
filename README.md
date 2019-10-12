@@ -66,5 +66,3 @@ Power BI, SSIS, SSAS, SSRS, COGNOS, Crystal Reports
 
 ### TOOLS
 Visual Studio, Git, Postman, Fiddler, YouTrack, Markdown
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="kimberly-emerson"><a class="LI-simple-link" href='https://www.linkedin.com/in/kimberly-emerson?trk=profile-badge'>Kimberly Emerson</a></div>
