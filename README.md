@@ -49,22 +49,29 @@ So, get in touch and let's talk about what I can do for you.
 
 [Pluralsight](https://app.pluralsight.com/profile/kimberly-emerson)
 
-### LANGUAGES
-C#, SQL, PowerShell, HTML5, CSS3, JavaScript, TypeScript, jQuery, Angular, AngularJS, Python
+### Front End
+JavaScript, TypeScript, Angular 6+, jQuery, jQuery UI, Bootstrap, Razor, EJS, PUG, HTML5, CSS3
 
-*I have a good grasp of the fundamentals of Python, Angular and TypeScript*
+### Back End
+C#, ASP.NET Core, ASP.NET Framework, ADO.NET, Entity Framework, Dapper, NUnit, Node, Express JS, NPM, Mocha, ES Lint, Swagger
 
-### PLATFORMS / OS
-Microsoft Azure, Windows Server, Microsoft Windows, Ubuntu Linux, WordPress, Microsoft SharePoint
+### Databases
+SQL Server, Mongo DB, Azure SQL, Cosmos DB
 
-### DATABASES
-Microsoft SQL Server, MySQL, MongoDB, Microsoft Access
+### Business Intelligence
+Power BI,  DAX, SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS)
 
-### BUSINESS INTELLIGENCE
-Power BI, SSIS, SSAS, SSRS, COGNOS, Crystal Reports
+### Tools
+Visual Studio, Visual Studio SSDT, VS Code, PowerShell, Git, Universal Markup Language (UML), Markdown, Postman, Fiddler, Team Foundation Server (TFS)
 
-### WEB DEVELOPMENT
-.NET Framework, .NET Core, MVC, Razor, Entity Framework, LINQ, Dapper, Swagger, NUnit, Bootstrap
+## Areas of Expertise
 
-### TOOLS
-Visual Studio, Git, Postman, Fiddler, YouTrack, Markdown
+✔️ Object-Oriented Programming
+✔️ SOLID Principles
+✔️ Model-View-Controller (MVC)
+✔️ Web API
+✔️ Agile Development & Scrum
+✔️ Technical Documentation
+✔️ Architectural Diagrams
+✔️ Stored Procedures/Functions
+✔️ Query Tuning
