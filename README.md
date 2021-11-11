@@ -1,5 +1,7 @@
 # About Kimberly Emerson
 
+> I am only interested in fully remote opportunities.
+
 [Resume](resume_emerson_kimberly.pdf)
 
 Versatile Full Stack Developer with 20 years of comprehensive experience in Back-end Development. Expertise in working with ASP.NET stack, Microsoft Azure, and SQL Server as well as modern libraries and frameworks. Adept at self-management during solo projects and collaboration as a member of a diverse team. Current focus on deepening Front-end skills including JavaScript, TypeScript and Angular.
